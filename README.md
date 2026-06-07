@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Didi 👋
+# Hi there, I'm Ayudya 👋
 
 ### Information Technology Student | Backend Developer | Mobile Developer
 
