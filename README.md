@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 ```txt
-Name        : Ayu Dyanandira
+Name        : Ayudya Nandira Afifah
 Role        : Information Technology Student
 Focus       : Backend Development & System Integration
 Currently   : Building Financial Recommendation Systems
@@ -92,15 +92,17 @@ C --> D[Scalable Applications]
 
 ## ☕ Fun Facts
 
-- I can spend 5 hours debugging a problem caused by a missing semicolon.
+- I can stare at my laptop 8 hours non stop.
 - My projects usually start with *"this should be simple"*.
-- PostgreSQL has become my comfort database.
-- The best feeling is when the API returns `200 OK`.
+- I love designing things and understading arts.
+- Kinda have to connect the dots before really working.
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect with Me!
 
-GitHub: github.com/ayudyanandira
+GitHub: https://github.com/ayudyanandira
+Linkedin: www.linkedin.com/in/ayudya-nandira
+Email: ayudyanandira@gmail.com
 
 > Building solutions, learning continuously, and shipping projects one commit at a time.
