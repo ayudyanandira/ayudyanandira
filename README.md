@@ -1,153 +1,106 @@
-# Ayu Dyanandira
+<div align="center">
 
-```yaml
-name: Ayu Dyanandira
-role: Information Technology Student
-focus:
-  - Backend Development
-  - Mobile Development
-  - System Integration
-currently_building:
-  - Financial Recommendation System
-  - Inventory Management System
+# Hi, I'm Ayudya 👋
+
+### IT Student • Backend Developer • Mobile Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Building+REST+APIs;Developing+Mobile+Apps;Designing+Database+Systems;Trying+not+to+break+production" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```txt
+Name        : Ayu Dyanandira
+Role        : Information Technology Student
+Focus       : Backend Development & System Integration
+Currently   : Building Financial Recommendation Systems
+Location    : Indonesia
 ```
 
----
-
-### Current Status
-
-```text
-[███████████░░░░░░] Surviving University
-[██████████████░░░] Building Backend APIs
-[████████████░░░░] Learning Software Architecture
-[███████████████░] Breaking Production (occasionally)
-```
+I enjoy turning ideas into working software, especially when it involves APIs, databases, mobile applications, and connecting multiple systems together.
 
 ---
 
-## Tech Arsenal
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td>
-
-**Languages**
-
-- Java
-- PHP
-- Python
-- Dart
-- JavaScript
-
-</td>
-
-<td>
-
-**Backend**
-
-- Laravel
-- Lumen
-- REST API
-- PostgreSQL
-
-</td>
-
-<td>
-
-**Mobile**
-
-- Android
-- Flutter
-- Firebase
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,php,python,dart,javascript,laravel,flutter,firebase,postgres,mysql,git,linux" />
+</p>
 
 ---
 
-## Selected Projects
+## 📂 Featured Projects
 
-### Financial Recommendation System
+### 💰 Financial Recommendation System
 
-A recommendation engine that analyzes user spending behavior and generates personalized financial suggestions.
+A recommendation engine that analyzes user behavior and spending patterns to generate personalized financial insights.
 
-```text
-User Data
-    ↓
-Behavior Analysis
-    ↓
-Segmentation
-    ↓
-Recommendation Engine
-    ↓
-Personalized Insights
-```
+**Stack:** Node.js • PostgreSQL • Machine Learning
 
 ---
 
-### Inventory Management System
+### 🛒 Inventory Management System
 
-A multi-platform inventory ecosystem consisting of:
+Integrated warehouse and cashier platform with real-time stock synchronization.
 
-```text
-Warehouse System
-        ↕
-    REST API
-        ↕
-Cashier System
-```
+**Stack:** Lumen • PostgreSQL • REST API
 
 ---
 
-### Cryptography Toolkit
+### 📱 Android Contact Manager
 
-Implementation of classical cryptographic algorithms including:
+Authentication, contact management, and cloud synchronization.
 
-- ADFGVX
-- Playfair
-- Myzkowski
-- Columnar Transposition
-
-Because sometimes plain text is too mainstream.
+**Stack:** Android Java • Firebase
 
 ---
 
-## GitHub Analytics
+### 🔐 Cryptography Toolkit
+
+Collection of classical cryptography implementations and attack simulations.
+
+**Stack:** Python
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ayudyanandira&show_icons=true&theme=tokyonight"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayudyanandira&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ayudyanandira&theme=tokyonight"/>
+</p>
+
 ---
 
-## Current Quest
+## 🌱 Current Focus
 
-```java
-while(alive){
-    learn();
-    build();
-    debug();
-    repeat();
-}
+```mermaid
+graph LR
+A[Backend Engineering] --> B[System Integration]
+B --> C[Machine Learning]
+C --> D[Scalable Applications]
 ```
 
 ---
 
-## Fun Facts
+## ☕ Fun Facts
 
-- I spend more time debugging than coding.
-- "Works on my machine" is not a deployment strategy.
-- Every finished project starts with:
-  ```text
-  It should be simple.
-  ```
-  and somehow ends with:
-  ```text
-  Why are there 47 API endpoints?
-  ```
+- I can spend 5 hours debugging a problem caused by a missing semicolon.
+- My projects usually start with *"this should be simple"*.
+- PostgreSQL has become my comfort database.
+- The best feeling is when the API returns `200 OK`.
 
 ---
 
-> Building systems that solve problems, not just pass assignments.
+## 📫 Connect
+
+GitHub: github.com/ayudyanandira
+
+> Building solutions, learning continuously, and shipping projects one commit at a time.
