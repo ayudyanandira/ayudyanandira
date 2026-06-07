@@ -1,118 +1,108 @@
-<div align="center">
+# Hi there, I'm Didi 👋
 
-# Hi there, I'm Ayudya 👋
+💻 Information Technology Student  
+🚀 Backend Developer | Mobile Developer | System Integration Enthusiast  
+📍 Indonesia
 
-### Information Technology Student | Backend Developer | Mobile Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+Developer;Mobile+Developer;System+Integration+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-
-</div>
-
----
-
-## 👩‍💻 About Me
+## About Me
 
 - 🎓 Information Technology Student
-- 🔧 Backend Developer with experience building REST APIs
-- 📱 Mobile Developer using Android & Flutter
-- 🗄️ Interested in Database Systems and System Integration
-- 🚀 Currently developing financial recommendation systems and inventory management systems
+- 🔧 Interested in Backend Development, Mobile Development, and Database Systems
+- 🌱 Currently learning Software Architecture, System Integration, and Cloud Technologies
+- 💡 Passionate about building scalable applications and solving real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Languages
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,php,python,dart,javascript" />
-</p>
+### Backend Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Lumen](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
-### Frameworks & Tools
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,flutter,firebase,git,github,linux,vscode" />
-</p>
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
-
-### 💰 Personalized Financial Recommendation System
-Capstone project that generates financial recommendations based on user segmentation and spending behavior.
-
-**Stack:** Node.js, PostgreSQL, Machine Learning
-
----
+## Featured Projects
 
 ### 🛒 Inventory Management System
-Warehouse and cashier management system with integrated backend APIs.
+Backend system for warehouse and cashier operations using REST API architecture.
 
-**Stack:** Lumen, PostgreSQL
+**Tech:** Lumen, PostgreSQL, JWT Authentication
 
 ---
 
 ### 📱 Android Contact Manager
-Authentication and contact management application using Firebase.
+Mobile application with user authentication and CRUD operations.
 
-**Stack:** Android Java, Firebase
-
----
-
-### 🔐 Cryptography Toolkit
-Implementation of classical encryption and decryption algorithms.
-
-**Stack:** Python
+**Tech:** Android Java, Firebase Authentication, Firestore
 
 ---
 
-## 📊 GitHub Statistics
+### 🤖 Personalized Financial Recommendation System
+Capstone project that generates user-specific recommendations based on spending behavior and segmentation.
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayudyanandira&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayudyanandira&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayudyanandira&theme=tokyonight"/>
-</p>
+**Tech:** Node.js, PostgreSQL, Machine Learning Integration
 
 ---
 
-## 📈 Contribution Graph
+### 🔐 Classical Cryptography Toolkit
+Implementation of various encryption algorithms including:
 
-[![Ayu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayudyanandira&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- ADFGVX Cipher
+- Playfair Cipher
+- Columnar Transposition
+- Double Columnar Transposition
+- Myzkowski Cipher
 
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayudyanandira&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=ayudyanandira&color=blue)
+**Tech:** Python
 
 ---
 
-## 📫 Connect With Me
+## GitHub Statistics
 
-- GitHub: https://github.com/ayudyanandira
-- LinkedIn: www.linkedin.com/in/ayudya-nandira
-- Email: ayudyanandira@gmail.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
-<div align="center">
+## Activity Graph
 
-### 🚀 Building, Learning, and Growing Every Day
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
-</div>
+---
+
+## Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/your-linkedin
+
+🌐 Portfolio: https://your-portfolio.com
+
+---
+
+> "Code. Learn. Build. Repeat."
