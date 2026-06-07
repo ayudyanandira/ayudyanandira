@@ -101,8 +101,8 @@ C --> D[Scalable Applications]
 
 ## 📫 Let's Connect with Me!
 
-GitHub: https://github.com/ayudyanandira
-Linkedin: www.linkedin.com/in/ayudya-nandira
-Email: ayudyanandira@gmail.com
+- GitHub: https://github.com/ayudyanandira
+- LinkedIn: www.linkedin.com/in/ayudya-nandira
+- Email: ayudyanandira@gmail.com
 
 > Building solutions, learning continuously, and shipping projects one commit at a time.
