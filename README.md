@@ -1,87 +1,153 @@
-# Ayudya Nandira Afifah
+# Ayu Dyanandira
 
-Information Technology Student  
-Backend Developer | Mobile Developer | System Integration Enthusiast
-
----
-
-## About Me
-
-- Information Technology Student
-- Interested in Backend Development, Mobile Development, and Database Systems
-- Experienced in developing REST APIs and database-driven applications
-- Currently exploring Software Architecture, System Integration, and Machine Learning
-
----
-
-## Tech Stack
-
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,php,python,dart,javascript" />
-</p>
-
-### Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,flutter,firebase,git,github,linux,vscode" />
-</p>
-
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
+```yaml
+name: Ayu Dyanandira
+role: Information Technology Student
+focus:
+  - Backend Development
+  - Mobile Development
+  - System Integration
+currently_building:
+  - Financial Recommendation System
+  - Inventory Management System
+```
 
 ---
 
-## Featured Projects
+### Current Status
 
-### Personalized Financial Recommendation System
-Capstone project that provides personalized financial recommendations based on user segmentation and spending behavior.
+```text
+[███████████░░░░░░] Surviving University
+[██████████████░░░] Building Backend APIs
+[████████████░░░░] Learning Software Architecture
+[███████████████░] Breaking Production (occasionally)
+```
 
-**Tech Stack:** Node.js, PostgreSQL, Machine Learning
+---
+
+## Tech Arsenal
+
+<table>
+<tr>
+<td>
+
+**Languages**
+
+- Java
+- PHP
+- Python
+- Dart
+- JavaScript
+
+</td>
+
+<td>
+
+**Backend**
+
+- Laravel
+- Lumen
+- REST API
+- PostgreSQL
+
+</td>
+
+<td>
+
+**Mobile**
+
+- Android
+- Flutter
+- Firebase
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Projects
+
+### Financial Recommendation System
+
+A recommendation engine that analyzes user spending behavior and generates personalized financial suggestions.
+
+```text
+User Data
+    ↓
+Behavior Analysis
+    ↓
+Segmentation
+    ↓
+Recommendation Engine
+    ↓
+Personalized Insights
+```
+
+---
 
 ### Inventory Management System
-Warehouse and cashier management system with integrated backend APIs.
 
-**Tech Stack:** Lumen, PostgreSQL
+A multi-platform inventory ecosystem consisting of:
 
-### Android Contact Manager
-Mobile application with authentication and CRUD functionality.
+```text
+Warehouse System
+        ↕
+    REST API
+        ↕
+Cashier System
+```
 
-**Tech Stack:** Android Java, Firebase
+---
 
 ### Cryptography Toolkit
-Implementation of classical cryptography algorithms and attack simulations.
 
-**Tech Stack:** Python
+Implementation of classical cryptographic algorithms including:
+
+- ADFGVX
+- Playfair
+- Myzkowski
+- Columnar Transposition
+
+Because sometimes plain text is too mainstream.
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ayudyanandira&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayudyanandira&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayudyanandira&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ayudyanandira&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayudyanandira&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## Activity
+## Current Quest
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayudyanandira&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+```java
+while(alive){
+    learn();
+    build();
+    debug();
+    repeat();
+}
+```
 
 ---
 
-## Contact
+## Fun Facts
 
-- GitHub: https://github.com/ayudyanandira
-- LinkedIn: Your LinkedIn
-- Email: Your Email
+- I spend more time debugging than coding.
+- "Works on my machine" is not a deployment strategy.
+- Every finished project starts with:
+  ```text
+  It should be simple.
+  ```
+  and somehow ends with:
+  ```text
+  Why are there 47 API endpoints?
+  ```
 
 ---
 
-*"Building reliable software through continuous learning and practical experience."*
+> Building systems that solve problems, not just pass assignments.
